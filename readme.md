@@ -1,6 +1,6 @@
 ## PDF Manager
 
-### How to create package
+### How to create a package in packagist
 
 - Create a Github repository
 - Checkout it in your Laptop/PC
@@ -19,7 +19,10 @@
     }
 ```    
 - Change the namespace `Atiq\\APDF\\` into whatever you like
-
+- Commit all changes into github
+- Goto https://packagist.org and login with your github credential
+- Go to submit page and paste your github repo link with http
+- That's all!
 
 
 ## Installation
